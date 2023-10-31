@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Executive Education (X-EXED) Advanced AI Program"
 collection: teaching
-type: "Workshop"
+type: "Executive Education"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "École Polytechnique IPP"
+date: 2020-10-01
+location: "Paris, France"
 ---
+Teaching coordinator, Lab assistant (55 hours, 2020 - now).
+Machine and Deep Learning for Time Series, [X-EXED program](https://exed.polytechnique.edu/formations/data/data-sciences-intelligence-artificielle).
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Contents
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Statistical methods for time series analysis & forecasting
+* ML & DL methods for time series forecasting
+* ML & DL methods for time series classification

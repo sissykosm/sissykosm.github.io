@@ -2,12 +2,12 @@
 title: "Ingénieur 3A, Master 1 - INF554 (Machine and Deep Learning)"
 collection: teaching
 type: "Computer Science M1 programme"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Ecole Polytechnique, IPP"
-date: 2021-10-01
+date: 2022-10-01
 location: "Paris, France"
 ---
-Teaching Coordinator, Lab assistant (14 hours - autumn 2021).
+Teaching Coordinator, Lab assistant (36 hours - autumn 2022).
 
 Contents
 ======

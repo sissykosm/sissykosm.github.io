@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in *CS & ML*, Laboratoire d'Informatique (LIX), Ecole Polytechnique, IPP, France, 2023 (expected)
+* BSc & MSc (5-year joint Diploma) in *Electrical and Computer Engineering* (major in Information Technology - top 15%), NTUA, Greece, 2014-2019
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2020 - now: PhD Candidate, ML Researcher
+  * DaSciM Group, LIX, Ecole Polytechnique
+  * Duties included: Research projects (ML for time series, sequences, graphs), Teaching Assistant
+  * Supervisors: Michalis Vazirgiannis & Jean-Marc Steyaert
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* April - November 2019: MSc Thesis
+  * Artificial Intelligence and Learning Systems Laboratory (NTUA),
+  * ML for genomics and protein data
+
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (PyTorch, Keras, Tensorflow)
+* Java (OOP Principles), C/C++
+* Matlab
+* Git/Github, Linux
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Languages 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Greek (native)
+* English (fluent - C2)
+* French (basic - B2)
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honours & Awards
 ======
-* Currently signed in to 43 different slack teams
+* “IP Paris “Artificial Intelligence (AI)” programme”,  IPP funding by ANR for PhD theses in AI, 2020
+* “The Great Moment for Education” Award -  Eurobank, excellence in university admissions exams, 2014
+* Touramanoglou Scholarship - Municipality of Ilioupolis & Hymettus, Greece, top high school graduate, 2014
