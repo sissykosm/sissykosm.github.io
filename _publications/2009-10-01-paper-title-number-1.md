@@ -9,6 +9,6 @@ paperurl: 'https://arxiv.org/pdf/2207.13441'
 citation: 'Kosma, C., Nikolentzos, G., Xu, N. and Vazirgiannis, M. (2022). &quot;Time Series Forecasting Models Copy the Past: How to Mitigate.&quot; <i>Proceedings of the 31st International Conference on Artificial Neural Networks (pp. 366-378). Cham: Springer International Publishing</i>.'
 ---
 
-[Download paper here](https://arxiv.org/pdf/2207.13441)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_31)
 
 Recommended citation: Kosma, C., Nikolentzos, G., Xu, N. and Vazirgiannis, M., 2022, September. Time Series Forecasting Models Copy the Past: How to Mitigate. In <i> Proceedings of the 31st International Conference on Artificial Neural Networks (pp. 366-378). Cham: Springer International Publishing</i>.
