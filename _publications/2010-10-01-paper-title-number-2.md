@@ -8,7 +8,6 @@ venue: 'Transactions on Machine Learning Research'
 paperurl: 'https://openreview.net/pdf?id=yrkJGne0vN'
 citation: 'Kosma, C., Nikolentzos, G., Panagopoulos, G., Steyaert, J.M. and Vazirgiannis, M. (2023). &quot;Neural Ordinary Differential Equations for Modeling Epidemic Spreading..&quot; <i>Transactions on Machine Learning Research</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](https://openreview.net/pdf?id=yrkJGne0vN)
 
