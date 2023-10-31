@@ -2,7 +2,7 @@
 title: "Executive Education (X-EXED) Advanced AI Program"
 collection: teaching
 type: "Executive Education"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "École Polytechnique IPP"
 date: 2020-10-01
 location: "Paris, France"
