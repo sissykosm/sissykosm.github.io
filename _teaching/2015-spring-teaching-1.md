@@ -1,5 +1,5 @@
 ---
-title: "Ingénieur 3A, Master 1 - INF554 (Machine and Deep Learning)"
+title: "Ingénieur 3A, Master 1 - INF554 (Machine and Deep Learning) 2022-2023"
 collection: teaching
 type: "Computer Science M1 programme"
 permalink: /teaching/2015-spring-teaching-1
