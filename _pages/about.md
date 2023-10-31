@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD student in Computer Science & Machine Learning at the [Dascim Group](http://www.lix.polytechnique.fr/dascim/), based at École Polytechnique, Institut Polytechnique de Paris, in France. I work under the supervision of Prof. Michalis Vazirgiannis, focusing on robust deep learning methods for time series data and dynamical systems. Before this, I obtained a 5-year integrated diploma (MEng equivalent) in Electrical and Computer Engineering from National Technical University of Athens (NTUA), Greece. I am passionate about the efficient and scalable application of deep learning to solving real-world problems, involving complex and dynamically evolving data.
+I am a final-year PhD student in Computer Science & Machine Learning at the [Dascim Group](http://www.lix.polytechnique.fr/dascim/), based at [École Polytechnique, Institut Polytechnique de Paris](https://www.polytechnique.edu/), in France. I work under the supervision of Prof. Michalis Vazirgiannis, focusing on robust deep learning methods for time series data and dynamical systems. My PhD is partially funded by the IP Paris “PhD theses in Artificial Intelligence” (IA IPP 2020) ANR programme. Before this, I obtained a 5-year integrated diploma (MEng equivalent) in Electrical and Computer Engineering from [National Technical University of Athens (NTUA)](https://www.ece.ntua.gr/en), Greece. I am passionate about the efficient and scalable application of deep learning to solving real-world problems, involving complex and dynamically evolving data.
 
 News
 ======
