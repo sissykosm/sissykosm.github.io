@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Time Series Forecasting Models Copy the Past: How to Mitigate"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-10
+venue: '31st International Conference on Artificial Neural Networks'
+paperurl: 'https://arxiv.org/pdf/2207.13441'
+citation: 'Kosma, C., Nikolentzos, G., Xu, N. and Vazirgiannis, M. (2022). &quot;Time Series Forecasting Models Copy the Past: How to Mitigate.&quot; <i>Proceedings of the 31st International Conference on Artificial Neural Networks (pp. 366-378). Cham: Springer International Publishing</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2207.13441)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kosma, C., Nikolentzos, G., Xu, N. and Vazirgiannis, M., 2022, September. Time Series Forecasting Models Copy the Past: How to Mitigate. In <i> Proceedings of the 31st International Conference on Artificial Neural Networks (pp. 366-378). Cham: Springer International Publishing</i>.
