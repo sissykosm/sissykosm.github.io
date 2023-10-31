@@ -22,7 +22,7 @@ Research experience
   * Supervisors: Michalis Vazirgiannis & Jean-Marc Steyaert
 
 * April - November 2019: MSc Thesis
-  * Artificial Intelligence and Learning Systems Laboratory (NTUA),
+  * Artificial Intelligence and Learning Systems Laboratory (NTUA)
   * ML for genomics and protein data
 
 Programming Skills
