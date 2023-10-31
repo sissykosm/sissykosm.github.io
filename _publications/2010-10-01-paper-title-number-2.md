@@ -12,4 +12,3 @@ Note: **Featured Certification** (equivalent to spotlight/oral)
 
 [Download paper here](https://openreview.net/pdf?id=yrkJGne0vN)
 
-Recommended citation: Kosma, C., Nikolentzos, G., Panagopoulos, G., Steyaert, J.M. and Vazirgiannis, M., 2023. "Neural Ordinary Differential Equations for Modeling Epidemic Spreading." <i>Transactions on Machine Learning Research</i>.

@@ -6,6 +6,5 @@ excerpt: 'Graph neural network approaches, which jointly learn a graph structure
 date: 2023-10-04
 venue: 'International Conference on Complex Networks and Their Applications'
 paperurl: ''
-citation: 'Your Name, You. (2015). &quot;TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting.&quot; <i>Proceedings of the 12th International Conference on Complex Networks and Their Applications</i>. (to appear).'
+citation: 'Xu, N., Kosma, C. and Vazirgiannis, M. (2023). &quot;TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting.&quot; <i>Proceedings of the 12th International Conference on Complex Networks and Their Applications</i>. (to appear).'
 ---
-
