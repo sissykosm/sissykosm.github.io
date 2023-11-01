@@ -86,7 +86,7 @@ author:
   employer         : #"Ecole Polytechnique, IPP"
   location         : "Paris, France"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=62TGUbgAAAAJ&hl=en"
+  googlescholar    : https://scholar.google.com/citations?user=62TGUbgAAAAJ&hl=en
   email            :  "kosma@lix.polytechnique.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sissykosm"
+  github           : https://github.com/sissykosm
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chrykosma/"
+  linkedin         : https://www.linkedin.com/in/chrykosma/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/chkosma"
+  twitter          : https://twitter.com/chkosma
   vine             :
   weibo            :
   xing             :
