@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in *CS & ML*, Laboratoire d'Informatique (LIX), Ecole Polytechnique, IPP, France, 2023 (expected)
+* Postdoctoral Researcher, Centre Borelli, Ecole Normale Superieure (ENS), Paris-Saclay, France, February 2024 - now
+* Ph.D in *CS & ML*, Laboratoire d'Informatique (LIX), Ecole Polytechnique, IPP, France, October 2020 - January 2024 
 * BSc & MSc (5-year joint Diploma) in *Electrical and Computer Engineering* (major in Information Technology - top 15%), NTUA, Greece, 2014-2019
 
 Research experience
 ======
-* October 2020 - now: PhD Candidate, ML Researcher
+* February 2024 - now: Postdoctoral Researcher
+  * Centre Borelli, ENS Paris-Saclay
+  * Projects under the Industrial Data Analytics and Machine Learning (IDAML) chair
+  * Duties included: Research projects (ML for time series, ML for industrial applications), Supervision of students
+
+* October 2020 - January 2024: PhD Candidate
   * DaSciM Group, LIX, Ecole Polytechnique
   * Duties included: Research projects (ML for time series, sequences, graphs), Teaching Assistant
   * Supervisors: Michalis Vazirgiannis & Jean-Marc Steyaert

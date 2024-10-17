@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chrysoula Kosma"
   avatar           : "profile.png"
-  bio              : "PhD student / ML Researcher, École Polytechnique, IPP"
+  bio              : "ML Researcher,Centre Borelli, ENS Paris-Saclay"
   employer         : #"Ecole Polytechnique, IPP"
   location         : "Paris, France"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=62TGUbgAAAAJ&hl=en"
-  email            :  "kosma@lix.polytechnique.fr"
+  email            :  "chrysoula.kosma@ens-paris-saclay.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
