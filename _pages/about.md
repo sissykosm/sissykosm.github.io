@@ -11,6 +11,7 @@ I am currently a Postdoctoral Researcher at [Centre Borelli, √âcole normale sup√
 
 News
 ======
+* **2025/05/01:** Our paper **"Tiem Series Representations with Hard-Coded Invariances"** has been accepted to ICML 2025! Check the paper [here](https://openreview.net/pdf?id=SaKPKyjDp6) and our official implementation [here](https://github.com/sissykosm/TS-InvConv).
 * **2024/05:** We presented our TMLR paper **"Neural Ordinary Differential Equations for Modeling Epidemic Spreading"** in Vienna at ICLR 2024! The poster can be found [here](https://iclr.cc/virtual/2024/poster/21761).
 * **2023/10/04:** Our paper with Xu N., Vazirgiannis M., **"TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting"** has been accepted at *The 12th International Conference on Complex Networks and their Applications, 2023*, Menton Riviera, France.
 * **2023/08/19:** Our paper entitled ["Neural Ordinary Differential Equations for Modeling Epidemic Spreading"](https://openreview.net/forum?id=yrkJGne0vN) has been accepted for publication at *Transactions on Machine Learning (TMLR)* journal, awarded with Featured Certification (equivalent to oral/spotlight).

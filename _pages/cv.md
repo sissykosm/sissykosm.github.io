@@ -31,28 +31,9 @@ Research experience
   * Artificial Intelligence and Learning Systems Laboratory (NTUA)
   * ML for genomics and protein data
 
-Programming Skills
-======
-* Python (PyTorch, Keras, Tensorflow)
-* Java (OOP Principles), C/C++
-* Matlab
-* Git/Github, Linux
-
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Languages 
-======
-* Greek (native)
-* English (fluent - C2)
-* French (basic - B2)
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -62,7 +43,33 @@ Reviewing
 * ICLR 2024 (Tiny papers Track, DEI Initiative), ICLR 2025 (Main Track) 
 * ICANN 2023
 * NeurIPS 2024 (Main Track, Awarded as Top Reviewer (~ 8%))
+* ICML 2025 
 * Journals: Transactions on Machine Learning Research (TMLR) - since 2024, IEEE Transactions on Knowledge and Data Engineering (TKDE) - since 2023
+
+Supervising 
+======
+* Maxime Dehondt (Cifre PhD Student, 2024-), cosupervised with Charles Truong and Laurent Oudre
+* Bastien Lhopitallier (Cifre PhD Student, 2024-), cosupervised with Charles Truong and Laurent Oudre
+* Lucas Haubert (M2 MVA Student 2024), cosupervised with Thibaut Germain and Laurent Oudre
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Programming Skills
+======
+* Python (PyTorch, Keras, Tensorflow)
+* Java (OOP Principles), C/C++
+* Matlab
+* Git/Github, Linux
+
+Languages 
+======
+* Greek (native)
+* English (fluent - C2)
+* French (basic - B2)
 
 Honours & Awards
 ======
