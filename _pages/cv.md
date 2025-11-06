@@ -41,16 +41,16 @@ Reviewing
 ======
 * AISTATS 2023, AISTATS 2024, AISTATS 2025, AISTATS 2026
 * ICLR 2024 (Tiny papers Track, DEI Initiative), ICLR 2025 (Main Track), ICLR 2026 (Main Track) 
-* ICANN 2023
-* NeurIPS 2024 (Main Track, Awarded as Top Reviewer (~ 8%)), NeurIPS 2025 (Main Track, Awarded as Top Reviewer)
-* ICML 2025 
+* ICML 2025, ICANN 2023
+* NeurIPS 2024 (Main Track, Awarded as Top Reviewer (~ 8%)), NeurIPS 2025 (Main Track, Awarded as Top Reviewer) 
 * Journals: Transactions on Machine Learning Research (TMLR) - since 2024, IEEE Transactions on Knowledge and Data Engineering (TKDE) - since 2023
 
 Supervising 
 ======
 * Maxime Dehondt (Cifre PhD Student, 2024-), cosupervised with Charles Truong and Laurent Oudre
 * Bastien Lhopitallier (Cifre PhD Student, 2024-), cosupervised with Charles Truong and Laurent Oudre
-* Lucas Haubert (M2 MVA Student 2024), cosupervised with Thibaut Germain and Laurent Oudre
+* Lucas Haubert (M2 MVA Student, Spring 2024), cosupervised with Thibaut Germain and Laurent Oudre
+* Samy Fouché (ARIA Diplôme Student, ENS Paris-Saclay, Autumn 2024)
 
 Teaching
 ======
