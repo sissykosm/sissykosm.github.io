@@ -31,18 +31,18 @@ Research experience
   * Artificial Intelligence and Learning Systems Laboratory (NTUA)
   * ML for genomics and protein data
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> <> -->
 
 Reviewing
 ======
-* AISTATS 2023, AISTATS 2024, AISTATS 2025
-* ICLR 2024 (Tiny papers Track, DEI Initiative), ICLR 2025 (Main Track) 
+* AISTATS 2023, AISTATS 2024, AISTATS 2025, AISTATS 2026
+* ICLR 2024 (Tiny papers Track, DEI Initiative), ICLR 2025 (Main Track), ICLR 2026 (Main Track) 
 * ICANN 2023
-* NeurIPS 2024 (Main Track, Awarded as Top Reviewer (~ 8%))
+* NeurIPS 2024 (Main Track, Awarded as Top Reviewer (~ 8%)), NeurIPS 2025 (Main Track, Awarded as Top Reviewer)
 * ICML 2025 
 * Journals: Transactions on Machine Learning Research (TMLR) - since 2024, IEEE Transactions on Knowledge and Data Engineering (TKDE) - since 2023
 
