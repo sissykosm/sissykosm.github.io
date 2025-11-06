@@ -3,8 +3,8 @@ title: "Ergonomics - Track: Human Factors, Health and Technology (FHST), Course:
 collection: teaching
 type: "Master in Ergonomics"
 permalink: /teaching/2015-spring-teaching-3
-venue: "École Polytechnique, IPP"
-date: 2020-10-01
+venue: "Université Paris Cité (UPC)"
+date: 2025-10-01
 location: "Paris, France"
 ---
 Teaching coordinator, Lab assistant (6 hours, autumn 2025).
