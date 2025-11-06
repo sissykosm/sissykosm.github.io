@@ -6,7 +6,7 @@ excerpt: 'We focus on the susceptible-infectious-recovered (SIR) epidemic model 
 date: 2023-08-19
 venue: 'Transactions on Machine Learning Research'
 paperurl: 'https://openreview.net/pdf?id=yrkJGne0vN'
-citation: 'Kosma, C., Nikolentzos, G., Panagopoulos, G., Steyaert, J.M. and Vazirgiannis, M. (2023). &quot;Neural Ordinary Differential Equations for Modeling Epidemic Spreading..&quot; <i>Transactions on Machine Learning Research</i>.'
+citation: 'Kosma, C., Nikolentzos, G., Panagopoulos, G., Steyaert, J.M. and Vazirgiannis, M. (2023). &quot;Neural Ordinary Differential Equations for Modeling Epidemic Spreading.&quot; <i>Transactions on Machine Learning Research</i>.'
 ---
 Note: **Featured Certification** (equivalent to spotlight/oral), Presented at [**ICLR 2024**](https://iclr.cc/virtual/2024/poster/21761) (Journal Track).
 

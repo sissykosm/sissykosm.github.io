@@ -6,7 +6,7 @@ excerpt: 'The Signed Graph Archetypal Autoencoder (SGAAE) framework extracts nod
 date: 2025-01-22
 venue: 'International Conference on Artificial Intelligence and Statistics'
 paperurl: ''
-citation: 'Nakis, N., Kosma, C., Nikolentzos, G., Chatzianastasis, M., Evdaimon, I., & Vazirgiannis, M. (2024). &quot;Signed Graph Autoencoder for Explainable and Polarization-aware Network Embeddings.&quot; <i>Proceedings of The 28th International Conference on Artificial Intelligence and Statistics</i>. 258:496-504 Available from https://proceedings.mlr.press/v258/nakis25a.html.'
+citation: 'Nakis, N., Kosma, C., Nikolentzos, G., Chatzianastasis, M., Evdaimon, I., & Vazirgiannis, M. (2024). &quot;Signed Graph Autoencoder for Explainable and Polarization-aware Network Embeddings.&quot; In <i>Proceedings of The 28th International Conference on Artificial Intelligence and Statistics</i>. 258:496-504 Available from https://proceedings.mlr.press/v258/nakis25a.html.'
 ---
 
 [Preprint](https://arxiv.org/pdf/2409.10452)

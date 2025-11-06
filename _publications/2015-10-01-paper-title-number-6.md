@@ -6,7 +6,7 @@ excerpt: 'To accurately represent biological relationships, we present the Signe
 date: 2025-04-23
 venue: OUP Bioinformatics 
 paperurl: ''
-citation: 'Nakis, N., Kosma, C., Brativnyk, A., Chatzianastasis, M., Evdaimon, I., & Vazirgiannis, M. (2025). The signed two-space proximity model for learning representations in protein–protein interaction networks. Bioinformatics, 41(6), btaf204.'
+citation: 'Nakis, N., Kosma, C., Brativnyk, A., Chatzianastasis, M., Evdaimon, I., & Vazirgiannis, M. (2025). The signed two-space proximity model for learning representations in protein–protein interaction networks. <i>Bioinformatics</i>, 41(6), btaf204.'
 ---
 
 [Paper](https://academic.oup.com/bioinformatics/article/41/6/btaf204/8118643)
