@@ -7,7 +7,7 @@ venue: "Université Paris Cité (UPC)"
 date: 2025-10-01
 location: "Paris, France"
 ---
-Teaching coordinator, Lab assistant (6 hours, autumn 2025).
+Lab assistant (6 hours, autumn 2025).
 Introduction to signal processing and e-health.
 
 Contents

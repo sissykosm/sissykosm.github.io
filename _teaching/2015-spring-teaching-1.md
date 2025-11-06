@@ -7,7 +7,7 @@ venue: "Ecole Polytechnique, IPP"
 date: 2022-10-01
 location: "Paris, France"
 ---
-Teaching Coordinator, Lab assistant (36 hours - autumn 2022).
+Lab assistant (36 hours - autumn 2022).
 
 Contents
 ======
