@@ -11,6 +11,7 @@ I am a Postdoctoral Researcher at [Centre Borelli, École normale supérieure (E
 
 News
 ======
+* **2026/04/30:** New paper **"Aitchison Embeddings for Learning Compositional Graph Representations"** with Nikolaos Nakis, Panagiotis Promponas, Michalis Chatzianastasis, & Giannis Nikolentzos just accepted to **ICML 2026**, in Seoul! [Preprint](https://arxiv.org/pdf/2605.00716) [Code](https://github.com/Nicknakis/AICoG)
 * **2026/01/22:** Excited that our work **"Archetypal Graph Generative Models: Explainable and Identifiable Communities via Anchor-Dominant Convex Hulls"** with Nikolaos Nakis, Panagiotis Promponas, Michalis Chatzianastasis, & Giannis Nikolentzos has been accepted to **AISTATS 2026** as a *Spotlight Paper*! [openreview](https://openreview.net/forum?id=EOImLdxIMH) [Preprint](https://arxiv.org/pdf/2602.21342)
 * **2025/05/01:** Exciting News: Our paper **"Time Series Representations with Hard-Coded Invariances"** with Thibaut Germain and Laurent Oudre, has been accepted to ICML 2025! Check the paper [here](https://openreview.net/pdf?id=SaKPKyjDp6) and our official code implementation [here](https://github.com/sissykosm/TS-InvConv). 
 * **2025/03/19:** Very happy for our paper **"The Signed Two-Space Proximity Model for Learning Representations in Protein-Protein Interaction Networks"**, with Nikolaos Nakis, Anastasia Brativnyk, Michalis Chatzianastasis, Iakovos Evdaimon & Michalis Vazirgiannis, that is accepted for publication at the *OUP Bioinformatics Journal*! [Paper](https://academic.oup.com/bioinformatics/article/41/6/btaf204/8118643)
